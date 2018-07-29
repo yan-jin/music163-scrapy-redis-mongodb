@@ -79,7 +79,7 @@ ITEM_PIPELINES = {
     'music163.pipelines.Music163Pipeline': 300,
     'scrapy_redis.pipelines.RedisPipeline': 400
 }
-MONGO_URI = 'localhost:27017'
+MONGO_URI = '58.87.111.39:27017'
 MONGO_DB = 'music163'
 
 USER_AGENTS = [
@@ -127,7 +127,7 @@ RETRY_TIMES = 5
 # Retry on most error codes since proxies fail for different reasons
 RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 
-LOG_LEVEL = 'DEBUG'
+LOG_LEVEL = 'INFO'
 COOKIES_ENABLED = False
 DOWNLOAD_TIMEOUT = 3
 
@@ -191,7 +191,7 @@ SCHEDULER_IDLE_BEFORE_CLOSE = 10
 
 SCHEDULER_ORDER = 'BFO'
 
-REDIS_HOST = '127.0.0.1'
+REDIS_HOST = '58.87.111.39'
 REDIS_PORT = 6379
 # Custom redis client parameters (i.e.: socket timeout, etc.)
 REDIS_PARAMS = {}

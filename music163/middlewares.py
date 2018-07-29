@@ -8,6 +8,7 @@
 from scrapy import signals
 import requests
 import random
+from music163 import get_random_ip as ip
 
 
 class Music163SpiderMiddleware(object):
@@ -62,10 +63,11 @@ class RandomProxy(object):
     """Custom ProxyMiddleware."""
 
     def __init__(self):
+        self.ip_list = ['221.217.50.222:9000', '101.132.122.230:3128', '111.121.193.214:3128', '203.130.46.108:9090', '122.72.18.35:80', '113.200.56.13:8010', '218.60.8.98:3129', '122.72.18.34:80', '124.193.85.88:8080', '119.29.252.90:3128', '121.42.167.160:3128', '218.60.8.99:3129', '180.101.205.253:8888', '124.235.208.252:443', '218.60.8.83:3129', '1.71.188.37:3128', '118.190.210.227:3128', '182.18.13.149:53281', '183.129.207.77:10000']
         pass
 
     def parse_request(self, request, spider):
-        proxy = requests.get('127.0.0.1:5000/get_random').text
+        proxy = random.choice(self.ip_list)
         request.meta['proxy'] = 'http://{}'.format(proxy)
 
 

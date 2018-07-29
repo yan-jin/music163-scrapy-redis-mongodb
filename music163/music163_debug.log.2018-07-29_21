@@ -1,0 +1,315 @@
+2018-07-29 22:58:21,344 - INFO - engine.py[:258] - Spider opened
+2018-07-29 22:58:21,420 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/robots.txt> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:21,496 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6355> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=36) ['cached']
+2018-07-29 22:58:21,554 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/album?id=2716009> (referer: https://music.163.com/artist/album?id=2738&limit=12&offset=12) ['cached']
+2018-07-29 22:58:21,666 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=2116&limit=12&offset=60> (referer: http://music.163.com/artist/album?id=2116) ['cached']
+2018-07-29 22:58:21,724 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=2127&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=2127) ['cached']
+2018-07-29 22:58:21,813 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=2747&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=2747) ['cached']
+2018-07-29 22:58:21,858 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=2849&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=2849) ['cached']
+2018-07-29 22:58:21,902 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=187295&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=187295) ['cached']
+2018-07-29 22:58:21,947 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1038374&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=1038374) ['cached']
+2018-07-29 22:58:22,005 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=2026> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=66) ['cached']
+2018-07-29 22:58:22,023 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=2111> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=67) ['cached']
+2018-07-29 22:58:22,039 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=2699> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=68) ['cached']
+2018-07-29 22:58:22,056 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=2741> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=70) ['cached']
+2018-07-29 22:58:22,070 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=2963> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=71) ['cached']
+2018-07-29 22:58:22,083 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=3064> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=72) ['cached']
+2018-07-29 22:58:22,096 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=3528> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=74) ['cached']
+2018-07-29 22:58:22,110 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=3617> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=75) ['cached']
+2018-07-29 22:58:22,124 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=3658> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=75) ['cached']
+2018-07-29 22:58:22,164 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4292> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=76) ['cached']
+2018-07-29 22:58:22,179 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4592> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=77) ['cached']
+2018-07-29 22:58:22,197 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=190349> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=78) ['cached']
+2018-07-29 22:58:22,213 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=860734> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=65) ['cached']
+2018-07-29 22:58:22,229 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=900332> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=73) ['cached']
+2018-07-29 22:58:22,246 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=957020> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=70) ['cached']
+2018-07-29 22:58:22,260 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1047333> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=73) ['cached']
+2018-07-29 22:58:22,279 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1053149> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=69) ['cached']
+2018-07-29 22:58:22,293 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1060060> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=66) ['cached']
+2018-07-29 22:58:22,310 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=79> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:22,497 - DEBUG - engine.py[:240] - Crawled (503) <GET http://music.163.com/artist/album?id=3684> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=76) ['cached']
+2018-07-29 22:58:22,508 - DEBUG - engine.py[:240] - Crawled (503) <GET http://music.163.com/artist/album?id=3273> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=72) ['cached']
+2018-07-29 22:58:23,442 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029095> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:23,512 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4693> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:23,801 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029096> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:23,984 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=190349&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=190349) ['cached']
+2018-07-29 22:58:24,003 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4694> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:24,452 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=2261058> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=24) ['cached']
+2018-07-29 22:58:24,502 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=3184340> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=12) ['cached']
+2018-07-29 22:58:24,531 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=2465020> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=24) ['cached']
+2018-07-29 22:58:24,557 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029097> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:24,669 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=190349&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=190349) ['cached']
+2018-07-29 22:58:24,683 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=896460> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:25,011 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029098> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:25,081 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4695> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:25,498 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6452> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:25,521 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029086> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:25,604 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4700> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:25,985 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029090> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:26,146 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1087808> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:26,629 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6454> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:26,651 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029089> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:26,750 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4691> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:27,057 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029088> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:27,154 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4705> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:27,504 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029099> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:27,604 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=3665> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:27,958 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029100> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:28,056 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1124169> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=79) ['cached']
+2018-07-29 22:58:28,366 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029101> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:28,734 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029103> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,007 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6462> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:29,038 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029087> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,262 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029104> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,302 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=80> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:29,485 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029105> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,527 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=81> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:29,677 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6305> (referer: https://music.163.com/artist/album?id=2112&limit=12&offset=12)
+2018-07-29 22:58:29,682 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=2963&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=2963)
+2018-07-29 22:58:29,687 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6412> (referer: https://music.163.com/artist/album?id=2115&limit=12&offset=12)
+2018-07-29 22:58:29,691 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4292&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4292)
+2018-07-29 22:58:29,723 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029091> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,755 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=82> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:29,956 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029092> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:29,977 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4721> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:29,993 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=83> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:30,139 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=37357667> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=12)
+2018-07-29 22:58:30,228 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35397919> (referer: https://music.163.com/artist/album?id=2112&limit=12&offset=12)
+2018-07-29 22:58:30,241 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=3394139> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=12)
+2018-07-29 22:58:30,315 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029093> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:30,327 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4723> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:30,340 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4813> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:30,353 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=84> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:30,661 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6475> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:30,709 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029094> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:30,731 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/album?id=34861281> (referer: https://music.163.com/artist/album?id=4292&limit=12&offset=12) ['cached']
+2018-07-29 22:58:30,743 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4726> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:30,757 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4833> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:30,771 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4895> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:30,783 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=85> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:31,110 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64283> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:58:31,115 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=2771204> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:58:31,366 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029106> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:31,405 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4755> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:31,418 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4863> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:31,432 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5073> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:31,443 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1038361> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:31,456 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=86> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:31,812 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=3266920> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:58:31,865 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029107> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:31,916 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4725> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:31,928 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5039> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:31,941 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5196> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:31,953 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1047440> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:31,966 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1110009> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:31,978 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=87> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:32,467 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35110373> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:58:32,473 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8463> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:58:32,589 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6479> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:32,670 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029108> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:32,692 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=428375722> (referer: http://music.163.com/album?id=34861281) ['cached']
+2018-07-29 22:58:32,761 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4722> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:32,773 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4793> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:32,785 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4883> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:32,798 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4941> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:32,811 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5205> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:32,823 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1081269> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=85) ['cached']
+2018-07-29 22:58:32,835 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=88> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:33,342 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029110> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:33,488 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4711> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:33,500 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4752> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:33,512 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4901> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:33,525 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5103> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:33,537 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5195> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:33,553 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5342> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=86) ['cached']
+2018-07-29 22:58:33,566 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1120093> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=85) ['cached']
+2018-07-29 22:58:33,578 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=89> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:34,297 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6491> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:34,461 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029111> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:34,660 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4724> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:34,673 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4873> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:34,685 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4898> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:34,698 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4948> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:34,711 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5197> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:34,723 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5346> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:34,735 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=789949> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=86) ['cached']
+2018-07-29 22:58:34,747 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1040136> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=85) ['cached']
+2018-07-29 22:58:34,761 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=90> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:35,447 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029112> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:35,516 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4725&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4725) ['cached']
+2018-07-29 22:58:35,566 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4837> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:35,578 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4902> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:35,591 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5047> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:35,604 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5199> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:35,616 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5347> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:35,628 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5781> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:35,640 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1024310> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:35,652 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1039046> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=85) ['cached']
+2018-07-29 22:58:35,664 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1049083> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=86) ['cached']
+2018-07-29 22:58:35,676 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1001&initial=0> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:36,523 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029113> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:36,629 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:36,641 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4777> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=80) ['cached']
+2018-07-29 22:58:36,653 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4831> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=81) ['cached']
+2018-07-29 22:58:36,665 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4917> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:36,678 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4942> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:36,690 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5200> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:36,702 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5358> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:36,714 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5770> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:36,726 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=6066> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=89) ['cached']
+2018-07-29 22:58:36,739 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1053284> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=86) ['cached']
+2018-07-29 22:58:36,751 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=1087332> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=85) ['cached']
+2018-07-29 22:58:36,767 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/discover/artist/cat?id=1002&initial=65> (referer: http://music.163.com/) ['cached']
+2018-07-29 22:58:37,472 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029114> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:37,615 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5103&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5103) ['cached']
+2018-07-29 22:58:37,657 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:37,669 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4882> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=82) ['cached']
+2018-07-29 22:58:37,682 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4903> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=89) ['cached']
+2018-07-29 22:58:37,693 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5234> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:38,536 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029116> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:38,688 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:38,775 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=789949&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=789949) ['cached']
+2018-07-29 22:58:38,788 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4950> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=0) ['cached']
+2018-07-29 22:58:38,802 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5354> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:38,815 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5768> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:38,829 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5771> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:38,843 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=6075> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=89) ['cached']
+2018-07-29 22:58:38,855 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=6452> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=90) ['cached']
+2018-07-29 22:58:39,661 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6483> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:39,750 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029118> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:39,837 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4948&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4948) ['cached']
+2018-07-29 22:58:39,881 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5199&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5199) ['cached']
+2018-07-29 22:58:39,923 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=48> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:40,004 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1049083&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=1049083) ['cached']
+2018-07-29 22:58:40,016 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=4934> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=83) ['cached']
+2018-07-29 22:58:40,030 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5207> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:40,043 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5538> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:40,056 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5773> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:41,062 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029120> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:41,212 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4942&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4942) ['cached']
+2018-07-29 22:58:41,252 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4948&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4948) ['cached']
+2018-07-29 22:58:41,297 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5199&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5199) ['cached']
+2018-07-29 22:58:41,338 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=60> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:41,377 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5358&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5358) ['cached']
+2018-07-29 22:58:41,419 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1049083&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=1049083) ['cached']
+2018-07-29 22:58:41,459 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1053284&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=1053284) ['cached']
+2018-07-29 22:58:41,471 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5198> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=84) ['cached']
+2018-07-29 22:58:42,238 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029121> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:42,343 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4948&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=4948) ['cached']
+2018-07-29 22:58:42,383 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=72> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:42,424 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5358&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5358) ['cached']
+2018-07-29 22:58:42,465 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1049083&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=1049083) ['cached']
+2018-07-29 22:58:42,506 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1053284&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=1053284) ['cached']
+2018-07-29 22:58:42,519 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5345> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:42,533 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5349> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=87) ['cached']
+2018-07-29 22:58:42,546 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5787> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:42,558 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=5997> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=88) ['cached']
+2018-07-29 22:58:42,571 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/artist/album?id=6070> (referer: http://music.163.com/discover/artist/cat?id=1001&initial=89) ['cached']
+2018-07-29 22:58:43,433 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6498> (referer: https://music.163.com/artist/album?id=2116&limit=12&offset=60) ['cached']
+2018-07-29 22:58:43,751 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029124> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:43,933 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5205&limit=12&offset=84> (referer: http://music.163.com/artist/album?id=5205) ['cached']
+2018-07-29 22:58:43,975 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5354&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5354) ['cached']
+2018-07-29 22:58:44,979 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029102> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:45,273 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5358&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=5358) ['cached']
+2018-07-29 22:58:45,312 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5538&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5538) ['cached']
+2018-07-29 22:58:45,353 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5768&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5768) ['cached']
+2018-07-29 22:58:45,399 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5768&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5768) ['cached']
+2018-07-29 22:58:45,441 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5771&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5771) ['cached']
+2018-07-29 22:58:45,482 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5773&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5773) ['cached']
+2018-07-29 22:58:46,523 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029109> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:46,778 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5198&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5198) ['cached']
+2018-07-29 22:58:46,819 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5538&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5538) ['cached']
+2018-07-29 22:58:46,863 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5773&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5773) ['cached']
+2018-07-29 22:58:46,904 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=6075&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=6075) ['cached']
+2018-07-29 22:58:46,946 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=6075&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=6075) ['cached']
+2018-07-29 22:58:46,988 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=6452&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=6452) ['cached']
+2018-07-29 22:58:47,895 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029115> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:48,175 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5198&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5198) ['cached']
+2018-07-29 22:58:48,216 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5349&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5349) ['cached']
+2018-07-29 22:58:48,259 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5787&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5787) ['cached']
+2018-07-29 22:58:48,299 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5997&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5997) ['cached']
+2018-07-29 22:58:48,340 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1049083&limit=12&offset=48> (referer: http://music.163.com/artist/album?id=1049083) ['cached']
+2018-07-29 22:58:48,384 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1049083&limit=12&offset=60> (referer: http://music.163.com/artist/album?id=1049083) ['cached']
+2018-07-29 22:58:48,426 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1053284&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=1053284) ['cached']
+2018-07-29 22:58:49,694 - DEBUG - engine.py[:240] - Crawled (200) <GET http://music.163.com/song?id=28029117> (referer: http://music.163.com/album?id=2716009) ['cached']
+2018-07-29 22:58:50,033 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5787&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5787) ['cached']
+2018-07-29 22:58:50,075 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5997&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5997) ['cached']
+2018-07-29 22:58:50,118 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1053284&limit=12&offset=48> (referer: http://music.163.com/artist/album?id=1053284) ['cached']
+2018-07-29 22:58:51,172 - INFO - engine.py[:297] - Closing spider (shutdown)
+2018-07-29 22:59:00,932 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64298> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:00,946 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8472> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:00,962 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=3266912> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:00,992 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35072701> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:01,021 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34535823> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:01,033 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35089165> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:01,269 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34993284> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:01,274 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8474> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:01,384 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8238> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:01,389 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=2317008> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:01,448 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35073169> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:02,026 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64303> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:02,172 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8478> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:02,177 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34535471> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:02,182 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8227> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:02,701 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4813&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4813)
+2018-07-29 22:59:03,097 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=38520170> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=12)
+2018-07-29 22:59:03,112 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=26354130> (referer: https://music.163.com/album?id=2465020)
+2018-07-29 22:59:03,117 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64306> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:03,122 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4813&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4813)
+2018-07-29 22:59:03,228 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4895&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4895)
+2018-07-29 22:59:03,234 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4833&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4833)
+2018-07-29 22:59:03,239 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35060994> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:03,243 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34935369> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:03,626 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=25638632> (referer: https://music.163.com/album?id=2261058)
+2018-07-29 22:59:03,639 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=33111721> (referer: https://music.163.com/album?id=3184340)
+2018-07-29 22:59:04,293 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4863&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4863)
+2018-07-29 22:59:04,299 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4895&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4895)
+2018-07-29 22:59:04,304 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6535> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:04,335 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4813&limit=12&offset=36> (referer: http://music.163.com/artist/album?id=4813)
+2018-07-29 22:59:04,349 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4833&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4833)
+2018-07-29 22:59:04,957 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34864414> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:04,962 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=1110009&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=1110009)
+2018-07-29 22:59:05,351 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8482> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:05,357 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=36946641> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=24)
+2018-07-29 22:59:05,400 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35058047> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:05,419 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8242> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:05,640 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=38383596> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=12)
+2018-07-29 22:59:06,236 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4941&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4941)
+2018-07-29 22:59:06,941 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=31426608> (referer: https://music.163.com/album?id=3184340)
+2018-07-29 22:59:07,469 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64312> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:07,512 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4711&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4711)
+2018-07-29 22:59:07,517 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4694&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4694)
+2018-07-29 22:59:07,693 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4941&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4941)
+2018-07-29 22:59:08,554 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8467> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:08,578 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4711&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=4711)
+2018-07-29 22:59:08,701 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4873&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4873)
+2018-07-29 22:59:08,733 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5346&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=5346)
+2018-07-29 22:59:09,384 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=5346&limit=12&offset=24> (referer: http://music.163.com/artist/album?id=5346)
+2018-07-29 22:59:09,388 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34535225> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:09,393 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8486> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:09,553 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8244> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:09,703 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=3266915> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:09,726 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64288> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:09,995 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=2713049> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:10,003 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35133921> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:10,919 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=64317> (referer: https://music.163.com/album?id=6355)
+2018-07-29 22:59:11,097 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4831&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4831)
+2018-07-29 22:59:11,120 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=34861390> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:11,336 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=38103749> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=12)
+2018-07-29 22:59:12,161 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=22201056> (referer: https://music.163.com/album?id=6452)
+2018-07-29 22:59:12,317 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=33111723> (referer: https://music.163.com/album?id=3184340)
+2018-07-29 22:59:13,264 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8488> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:13,269 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6541> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:13,344 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8387> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:13,387 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/artist/album?id=4950&limit=12&offset=12> (referer: http://music.163.com/artist/album?id=4950)
+2018-07-29 22:59:14,404 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35033884> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:14,408 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=37862762> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=12)
+2018-07-29 22:59:14,517 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=36858975> (referer: https://music.163.com/artist/album?id=190349&limit=12&offset=24)
+2018-07-29 22:59:15,504 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=33111724> (referer: https://music.163.com/album?id=3184340)
+2018-07-29 22:59:15,643 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/song?id=65798> (referer: https://music.163.com/album?id=6452)
+2018-07-29 22:59:16,935 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35072916> (referer: https://music.163.com/artist/album?id=187295&limit=12&offset=36)
+2018-07-29 22:59:16,940 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=6545> (referer: https://music.163.com/artist/album?id=2127&limit=12&offset=12)
+2018-07-29 22:59:16,962 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8492> (referer: https://music.163.com/artist/album?id=2849&limit=12&offset=36)
+2018-07-29 22:59:16,986 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=35101220> (referer: https://music.163.com/artist/album?id=1038374&limit=12&offset=12)
+2018-07-29 22:59:17,026 - DEBUG - engine.py[:240] - Crawled (200) <GET https://music.163.com/album?id=8290> (referer: https://music.163.com/artist/album?id=2747&limit=12&offset=24)
+2018-07-29 22:59:18,986 - INFO - engine.py[:328] - Spider closed (shutdown)
